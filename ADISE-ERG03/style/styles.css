@@ -1,0 +1,13 @@
+
+#sidebar{
+  background-color: #adb4ba;
+}
+
+/* #main{
+  background-color: #e4e9ed;
+} */
+
+.wrapper{
+  display: flex;
+  align-items: stretch;
+}
